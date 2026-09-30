@@ -1,0 +1,4 @@
+cpu_threshold: 76.44
+mem_threshold: 80.07
+net_in_threshold: 3205.23
+disk_io_threshold: 1534.99
